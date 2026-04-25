@@ -4,7 +4,7 @@ use std::sync::Arc;
 use parking_lot::RwLock;
 use serde::{Deserialize, Serialize};
 
-use super::{MetricMetadata, MetricType, MetricError};
+use super::{MetricMetadata, MetricType};
 
 /// Counter value
 #[derive(Debug, Clone, Serialize, Deserialize, Default)]
