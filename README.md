@@ -1,5 +1,11 @@
 # Metron
 
+**Status:** maintenance
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/KooshaPari/Metron/actions/workflows/ci.yml/badge.svg)](https://github.com/KooshaPari/Metron/actions/workflows/ci.yml)
+[![Rust](https://img.shields.io/badge/rust-1.75%2B-orange.svg)](https://www.rust-lang.org)
+
 Production-grade metrics collection and observability framework for Phenotype services. Provides Prometheus-compatible metrics with zero-overhead collection, multiple exporters, built-in cardinality protection, and seamless async integration.
 
 ## Overview
