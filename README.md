@@ -152,3 +152,7 @@ let metrics_text = registry.prometheus_text();
 ## License
 
 MIT OR Apache-2.0
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
