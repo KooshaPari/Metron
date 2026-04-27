@@ -1,0 +1,10 @@
+# cargo-deny config for Metron
+#
+# Every advisory ignore below MUST carry a specific RUSTSEC ID and a concrete
+# justification (per repo policy: no silent suppressions, no wildcard ignores).
+# Re-evaluate on every dep bump and on each touch of this file.
+
+[advisories]
+version = 2
+yanked = "deny"
+ignore = []
